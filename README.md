@@ -7,7 +7,7 @@
 
 -  I’m currently learning **web and app development**, **Embedded C**, and exploring **open source** and **cyber-security**
 -  I've completed Harvard's **CS50** projects like [SegFault Savings](https://github.com/me50/sannihith-madasu), a CLI-based finance tracker
--  I have organized Scrapyard Hyderabad Hackathon for high schoolers under Hack Club with GitHub Education and The Linux Foundation as sponsors
+-  I have organized Scrapyard Hyderabad, a hackathon for high schoolers under Hack Club with GitHub Education and The Linux Foundation as sponsors
 -  I work with **C**, **Python**, **HTML/CSS**, and I'm improving my JS & Git skills
 -  I love combining logic and storytelling through code
 
